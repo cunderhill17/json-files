@@ -1,0 +1,167 @@
+[
+    {
+        "Id": 1,
+        "BrandId": 1,
+        "ProductName": "Apple MacBook Air 13-inch (M3, 2024)",
+        "GraphicName": "images/img-1.png",
+        "CostPrice": 1400,
+        "MSRP": 1450,
+        "QtyOnHand": 5,
+        "QtyOnBackOrder": 3,
+        "Description": "A thin, lightweight 13-inch laptop powered by Apple’s M3 chip, offering fast performance, silent efficiency, and all-day battery life."
+    },
+    {
+        "Id": 2,
+        "BrandId": 1,
+        "ProductName": "Samsung 65 Inch S90C OLED 4K Smart TV",
+        "GraphicName": "images/img-2.jpg",
+        "CostPrice": 1800,
+        "MSRP": 1850,
+        "QtyOnHand": 5,
+        "QtyOnBackOrder": 2,
+        "Description": "A 65-inch 4K OLED smart TV from Samsung offering deep blacks, vibrant colors, and smooth motion for a premium home entertainment experience."
+    },
+    {
+        "Id": 3,
+        "BrandId": 1,
+        "ProductName": "Sony WH-1000XM5 Wireless Noise-Canceling Headphones",
+        "GraphicName": "images/img-3.jpg",
+        "CostPrice": 400,
+        "MSRP": 450,
+        "QtyOnHand": 7,
+        "QtyOnBackOrder": 1,
+        "Description": "Premium wireless over-ear headphones from Sony with industry-leading noise cancellation, rich sound quality, and all-day comfort for travel and daily use."
+    },
+    {
+        "Id": 4,
+        "BrandId": 1,
+        "ProductName": "PlayStation 5 Slim Console",
+        "GraphicName": "images/img-4.jpg",
+        "CostPrice": 580,
+        "MSRP": 600,
+        "QtyOnHand": 2,
+        "QtyOnBackOrder": 6,
+        "Description": "A compact version of Sony’s PlayStation 5 console delivering fast load times, smooth 4K gaming, and access to a large library of modern games."
+    },
+    {
+        "Id": 5,
+        "BrandId": 1,
+        "ProductName": "Google Nest Learning Thermostat (3rd Generation)",
+        "GraphicName": "images/img-5.jpg",
+        "CostPrice": 250,
+        "MSRP": 250,
+        "QtyOnHand": 5,
+        "QtyOnBackOrder": 3,
+        "Description": "A smart thermostat that learns your schedule and preferences to automatically optimize home heating and cooling for comfort and energy savings."
+    },
+    {
+        "Id": 6,
+        "BrandId": 2,
+        "ProductName": "HP OfficeJet Pro 9025e All-in-One Printer",
+        "GraphicName": "images/img-6.jpg",
+        "CostPrice": 250,
+        "MSRP": 225,
+        "QtyOnHand": 1,
+        "QtyOnBackOrder": 6,
+        "Description": "A versatile all-in-one printer from HP that handles printing, scanning, copying, and faxing with fast speeds and smart wireless connectivity for home or office use."
+    },
+    {
+        "Id": 7,
+        "BrandId": 2,
+        "ProductName": "Lenovo IdeaCentre AIO 3 Desktop (24 Inch)",
+        "GraphicName": "images/img-7.jpg",
+        "CostPrice": 800,
+        "MSRP": 850,
+        "QtyOnHand": 0,
+        "QtyOnBackOrder": 1,
+        "Description": "A compact 24-inch all-in-one desktop from Lenovo that combines a space-saving design with reliable everyday performance for work, study, and home use."
+    },
+    {
+        "Id": 8,
+        "BrandId": 2,
+        "ProductName": "Dell UltraSharp U2723QE 27 Inch 4K Monitor",
+        "GraphicName": "images/img-8.jpg",
+        "CostPrice": 700,
+        "MSRP": 650,
+        "QtyOnHand": 4,
+        "QtyOnBackOrder": 0,
+        "Description": "A 27-inch 4K UltraSharp monitor from Dell featuring IPS Black technology for sharper contrast, accurate colors, and professional-grade productivity."
+    },
+    {
+        "Id": 9,
+        "BrandId": 2,
+        "ProductName": "Logitech C920 HD Pro Webcam",
+        "GraphicName": "images/img-9.jpg",
+        "CostPrice": 70,
+        "MSRP": 75,
+        "QtyOnHand": 9,
+        "QtyOnBackOrder": 2,
+        "Description": "A reliable Full HD 1080p webcam from Logitech that delivers clear video and audio for video calls, streaming, and online meetings."
+    },
+    {
+        "Id": 10,
+        "BrandId": 2,
+        "ProductName": "APC Back-UPS Pro 1500VA Battery Backup",
+        "GraphicName": "images/img-10.jpg",
+        "CostPrice": 250,
+        "MSRP": 250,
+        "QtyOnHand": 3,
+        "QtyOnBackOrder": 1,
+        "Description": "A high-capacity battery backup from APC that provides surge protection and temporary power to keep essential devices running during outages."
+    },
+    {
+        "Id": 11,
+        "BrandId": 3,
+        "ProductName": "Anker PowerCore 20,000mAh Power Bank",
+        "GraphicName": "images/img-11.jpg",
+        "CostPrice": 50,
+        "MSRP": 75,
+        "QtyOnHand": 15,
+        "QtyOnBackOrder": 0,
+        "Description": "A high-capacity portable charger from Anker that provides multiple full phone charges with fast, reliable power delivery for travel and daily use."
+    },
+    {
+        "Id": 12,
+        "BrandId": 3,
+        "ProductName": "Samsung Galaxy S24 Smartphone",
+        "GraphicName": "images/img-12.jpg",
+        "CostPrice": 1100,
+        "MSRP": 1200,
+        "QtyOnHand": 3,
+        "QtyOnBackOrder": 4,
+        "Description": "A flagship Samsung smartphone with a bright high-refresh display, powerful performance, and advanced AI-powered camera features for everyday use and content creation."
+    },
+    {
+        "Id": 13,
+        "BrandId": 3,
+        "ProductName": "Google Pixel 8 Smartphone",
+        "GraphicName": "images/img-13.jpg",
+        "CostPrice": 800,
+        "MSRP": 950,
+        "QtyOnHand": 1,
+        "QtyOnBackOrder": 6,
+        "Description": "A flagship Google smartphone featuring a clean Android experience, advanced AI-powered camera tools, and strong performance with long-term software support."
+    },
+    {
+        "Id": 14,
+        "BrandId": 3,
+        "ProductName": "JBL Flip 6 Portable Bluetooth Speaker",
+        "GraphicName": "images/img-14.png",
+        "CostPrice": 150,
+        "MSRP": 150,
+        "QtyOnHand": 10,
+        "QtyOnBackOrder": 1,
+        "Description": "A compact waterproof Bluetooth speaker from JBL that delivers punchy bass, clear sound, and durable portability for outdoor and on-the-go listening."
+    },
+    {
+        "Id": 15,
+        "BrandId": 3,
+        "ProductName": "Beats Studio Buds+",
+        "GraphicName": "images/img-15.jpg",
+        "CostPrice": 180,
+        "MSRP": 200,
+        "QtyOnHand": 4,
+        "QtyOnBackOrder": 0,
+        "Description": "A pair of compact wireless earbuds from Beats offering balanced sound, active noise cancellation, and a comfortable fit for everyday listening."
+    }
+]
