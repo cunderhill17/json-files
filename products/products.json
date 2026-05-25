@@ -8,7 +8,8 @@
         "MSRP": 1450,
         "QtyOnHand": 5,
         "QtyOnBackOrder": 3,
-        "Description": "A thin, lightweight 13-inch laptop powered by Apple’s M3 chip, offering fast performance, silent efficiency, and all-day battery life."
+        "Description": "A thin, lightweight 13-inch laptop powered by Apple’s M3 chip, offering fast performance, silent efficiency, and all-day battery life.",
+        "BRAND": "Staples"
     },
     {
         "Id": 2,
@@ -19,7 +20,8 @@
         "MSRP": 1850,
         "QtyOnHand": 5,
         "QtyOnBackOrder": 2,
-        "Description": "A 65-inch 4K OLED smart TV from Samsung offering deep blacks, vibrant colors, and smooth motion for a premium home entertainment experience."
+        "Description": "A 65-inch 4K OLED smart TV from Samsung offering deep blacks, vibrant colors, and smooth motion for a premium home entertainment experience.",
+        "BRAND": "Staples"
     },
     {
         "Id": 3,
@@ -30,7 +32,8 @@
         "MSRP": 450,
         "QtyOnHand": 7,
         "QtyOnBackOrder": 1,
-        "Description": "Premium wireless over-ear headphones from Sony with industry-leading noise cancellation, rich sound quality, and all-day comfort for travel and daily use."
+        "Description": "Premium wireless over-ear headphones from Sony with industry-leading noise cancellation, rich sound quality, and all-day comfort for travel and daily use.",
+        "BRAND": "Staples"
     },
     {
         "Id": 4,
@@ -41,7 +44,8 @@
         "MSRP": 600,
         "QtyOnHand": 2,
         "QtyOnBackOrder": 6,
-        "Description": "A compact version of Sony’s PlayStation 5 console delivering fast load times, smooth 4K gaming, and access to a large library of modern games."
+        "Description": "A compact version of Sony’s PlayStation 5 console delivering fast load times, smooth 4K gaming, and access to a large library of modern games.",
+        "BRAND": "Staples"
     },
     {
         "Id": 5,
@@ -52,7 +56,8 @@
         "MSRP": 250,
         "QtyOnHand": 5,
         "QtyOnBackOrder": 3,
-        "Description": "A smart thermostat that learns your schedule and preferences to automatically optimize home heating and cooling for comfort and energy savings."
+        "Description": "A smart thermostat that learns your schedule and preferences to automatically optimize home heating and cooling for comfort and energy savings.",
+        "BRAND": "Staples"
     },
     {
         "Id": 6,
@@ -63,7 +68,8 @@
         "MSRP": 225,
         "QtyOnHand": 1,
         "QtyOnBackOrder": 6,
-        "Description": "A versatile all-in-one printer from HP that handles printing, scanning, copying, and faxing with fast speeds and smart wireless connectivity for home or office use."
+        "Description": "A versatile all-in-one printer from HP that handles printing, scanning, copying, and faxing with fast speeds and smart wireless connectivity for home or office use.",
+        "BRAND": "Best Buy"
     },
     {
         "Id": 7,
@@ -74,7 +80,8 @@
         "MSRP": 850,
         "QtyOnHand": 0,
         "QtyOnBackOrder": 1,
-        "Description": "A compact 24-inch all-in-one desktop from Lenovo that combines a space-saving design with reliable everyday performance for work, study, and home use."
+        "Description": "A compact 24-inch all-in-one desktop from Lenovo that combines a space-saving design with reliable everyday performance for work, study, and home use.",
+        "BRAND": "Best Buy"
     },
     {
         "Id": 8,
@@ -85,7 +92,8 @@
         "MSRP": 650,
         "QtyOnHand": 4,
         "QtyOnBackOrder": 0,
-        "Description": "A 27-inch 4K UltraSharp monitor from Dell featuring IPS Black technology for sharper contrast, accurate colors, and professional-grade productivity."
+        "Description": "A 27-inch 4K UltraSharp monitor from Dell featuring IPS Black technology for sharper contrast, accurate colors, and professional-grade productivity.",
+        "BRAND": "Best Buy"
     },
     {
         "Id": 9,
@@ -96,7 +104,8 @@
         "MSRP": 75,
         "QtyOnHand": 9,
         "QtyOnBackOrder": 2,
-        "Description": "A reliable Full HD 1080p webcam from Logitech that delivers clear video and audio for video calls, streaming, and online meetings."
+        "Description": "A reliable Full HD 1080p webcam from Logitech that delivers clear video and audio for video calls, streaming, and online meetings.",
+        "BRAND": "Best Buy"
     },
     {
         "Id": 10,
@@ -107,7 +116,8 @@
         "MSRP": 250,
         "QtyOnHand": 3,
         "QtyOnBackOrder": 1,
-        "Description": "A high-capacity battery backup from APC that provides surge protection and temporary power to keep essential devices running during outages."
+        "Description": "A high-capacity battery backup from APC that provides surge protection and temporary power to keep essential devices running during outages.",
+        "BRAND": "Best Buy"
     },
     {
         "Id": 11,
@@ -118,7 +128,8 @@
         "MSRP": 75,
         "QtyOnHand": 15,
         "QtyOnBackOrder": 0,
-        "Description": "A high-capacity portable charger from Anker that provides multiple full phone charges with fast, reliable power delivery for travel and daily use."
+        "Description": "A high-capacity portable charger from Anker that provides multiple full phone charges with fast, reliable power delivery for travel and daily use.",
+        "BRAND": "The Source"
     },
     {
         "Id": 12,
@@ -129,7 +140,8 @@
         "MSRP": 1200,
         "QtyOnHand": 3,
         "QtyOnBackOrder": 4,
-        "Description": "A flagship Samsung smartphone with a bright high-refresh display, powerful performance, and advanced AI-powered camera features for everyday use and content creation."
+        "Description": "A flagship Samsung smartphone with a bright high-refresh display, powerful performance, and advanced AI-powered camera features for everyday use and content creation.",
+        "BRAND": "The Source"
     },
     {
         "Id": 13,
@@ -140,7 +152,8 @@
         "MSRP": 950,
         "QtyOnHand": 1,
         "QtyOnBackOrder": 6,
-        "Description": "A flagship Google smartphone featuring a clean Android experience, advanced AI-powered camera tools, and strong performance with long-term software support."
+        "Description": "A flagship Google smartphone featuring a clean Android experience, advanced AI-powered camera tools, and strong performance with long-term software support.",
+        "BRAND": "The Source"
     },
     {
         "Id": 14,
@@ -151,7 +164,8 @@
         "MSRP": 150,
         "QtyOnHand": 10,
         "QtyOnBackOrder": 1,
-        "Description": "A compact waterproof Bluetooth speaker from JBL that delivers punchy bass, clear sound, and durable portability for outdoor and on-the-go listening."
+        "Description": "A compact waterproof Bluetooth speaker from JBL that delivers punchy bass, clear sound, and durable portability for outdoor and on-the-go listening.",
+        "BRAND": "The Source"
     },
     {
         "Id": 15,
@@ -162,6 +176,7 @@
         "MSRP": 200,
         "QtyOnHand": 4,
         "QtyOnBackOrder": 0,
-        "Description": "A pair of compact wireless earbuds from Beats offering balanced sound, active noise cancellation, and a comfortable fit for everyday listening."
+        "Description": "A pair of compact wireless earbuds from Beats offering balanced sound, active noise cancellation, and a comfortable fit for everyday listening.",
+        "BRAND": "The Source"
     }
 ]
